@@ -8,6 +8,7 @@ sort: original # 权重：by_weight ，原始顺序：original
 import_tables:
   - wubi86_dict_chengyu      # 成语词库
   - wubi86_dict_ciyu         # 词语词库
+  - wubi86_dict_china_cultural_cities  # 中国国家历史文化名城
   - wubi86_dict_xzqh         # 中国行政区划词库 (省份/城市)
   - wubi86_dict_it           # IT 相关词库
   # - wubi86_dict_extra        # 个人扩展词库

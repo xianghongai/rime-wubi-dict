@@ -14,6 +14,7 @@
 import_tables:
   - wubi86_dict_chengyu      # 成语词库
   - wubi86_dict_ciyu         # 词语词库
+  - wubi86_dict_china_cultural_cities # 中国国家历史文化名城
   - wubi86_dict_xzqh         # 中国行政区划词库
   - wubi86_dict_it           # IT 相关词库
   # - wubi86_dict_extra        # 个人扩展词库
@@ -56,6 +57,8 @@ translator:
 建议维护自己其它方面的词库。
 
 ## Feature
+
+词库太大了，需要高频词词库，需要想想怎么搞。
 
 1. 未来会将词频部分分享出来，大部分人中的一部分，输入应是具有共性的；
 2. 商务印馆有出版《现代汉语常用词表》（第2版），本打算基于它做一套词典方案的，找了一圈没有找到 PDF 文件，未来有机会再整。
