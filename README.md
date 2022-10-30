@@ -27,7 +27,8 @@ import_tables:
 - `wubi86_dict_chengyu.dict.yaml`，包含 32,642 个成语
 - `wubi86_dict_ciyu.dict.yaml`，包含 316,757 个词语
 - `wubi86_dict_it.dict.yaml`，包含 1,522 个 IT 行业常用词语
-- `wubi86_dict_xzqh.dict.yaml`，包含 481 个 中国行政区划词库 (省份/城市)，无“省、市、区/地区、县、盟、新区、林区、经济开发区、<民族>自治州/自治县”等行政单位，仅地名。
+- `wubi86_dict_xzqh.dict.yaml`，包含 481 个中国行政区划词库 (省份/城市)，无“省、市、区/地区、县、盟、新区、林区、经济开发区、<民族>自治州/自治县”等行政单位，仅地名。
+- `wubi86_dict_china_cultural_cities.dict.yaml`，包含 141 个中国国家历史文化名城。
 
 其中成语和词语来自[汉典网](https://www.zdic.net/)，已去除冗余。
 
