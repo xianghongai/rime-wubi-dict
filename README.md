@@ -24,7 +24,7 @@ import_tables:
 
 - `wubi86_dict_chengyu.dict.yaml`，包含 32,642 个成语
 - `wubi86_dict_ciyu.dict.yaml`，包含 316,757 个词语
-- `wubi86_dict_it.dict.yaml`，包含 1,502 个 IT 行业常用词语
+- `wubi86_dict_it.dict.yaml`，包含 1,522 个 IT 行业常用词语
 
 其中成语和词语来自[汉典网](https://www.zdic.net/)，已去除冗余。
 
